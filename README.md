@@ -1,6 +1,9 @@
 # PhoneGap amb JSView
 
-Test Bàsic de PhoneGap
+La meva primera APP
+
+
+Anssaro Diao Da Costa i Jéssica Berenguer Jiménez
 29/11/2015
 
 02/12/2015
