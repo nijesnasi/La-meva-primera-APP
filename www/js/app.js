@@ -19,7 +19,12 @@ window.addEventListener('load', function() {
         mercuri: {
             url: '/mercuri',
             template: 'views/mercuri.html',
-            controller: 'mercuri'
+            controller: 'mercuri´
+            },
+        mercuri: {
+            url: '/venus',
+            template: 'views/venus.html',
+            controller: 'venus'
         }
     });
      
