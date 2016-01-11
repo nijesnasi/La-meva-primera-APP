@@ -14,5 +14,7 @@ $JSView.controller = {
 	},
     modalA: function(e){
 		$JSView.dataView({},e)	
-	}
+	},
+    venus: function(e){
+		$JSView.dataView({},e)
 }
