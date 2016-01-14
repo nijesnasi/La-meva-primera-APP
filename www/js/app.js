@@ -19,12 +19,42 @@ window.addEventListener('load', function() {
         mercuri: {
             url: '/mercuri',
             template: 'views/mercuri.html',
-            controller: 'mercuri´
-            },
-        mercuri: {
+            controller: 'mercuri'
+        },
+        venus: {
             url: '/venus',
             template: 'views/venus.html',
             controller: 'venus'
+        },
+        terra: {
+            url: '/terra',
+            template: 'views/terra.html',
+            controller: 'terra'
+        },
+        mart: {
+            url: '/mart',
+            template: 'views/mart.html',
+            controller: 'mart'
+        },
+        jupiter: {
+            url: '/jupiter',
+            template: 'views/jupiter.html',
+            controller: 'jupiter'
+        },
+        ura: {
+            url: '/ura',
+            template: 'views/ura.html',
+            controller: 'ura'
+        },
+        neptu: {
+            url: '/neptu',
+            template: 'views/neptu.html',
+            controller: 'neptu'
+        },
+        saturn: {
+            url: '/saturn',
+            template: 'views/saturn.html',
+            controller: 'saturn'
         }
     });
      
@@ -37,7 +67,7 @@ window.addEventListener('load', function() {
         }
     });
      
-    /*designar la pàgina inicial*/
+    /*designar la pàgina inicial */
     $JSView
         .initView('inici');
  
